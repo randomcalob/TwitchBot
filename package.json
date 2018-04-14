@@ -1,0 +1,14 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "personal twitch bot",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "randomcalob",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}
